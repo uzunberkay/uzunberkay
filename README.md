@@ -17,14 +17,7 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 
-<img align="left" alt="C" width="36px" src="https://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" />
-<img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
-<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
-<img align="left" alt="STM32" width="36px" src="https://img.icons8.com/color/48/000000/stm32.png" />
-<img align="left" alt="FreeRTOS" width="36px" src="https://img.icons8.com/color/48/000000/freertos.png" />
-<img align="left" alt="Git" width="36px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
-
-<br /><br />
+<p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" /> <img src="https://img.shields.io/badge/FreeRTOS-27AE60?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" /> <img src="https://img.shields.io/badge/Zephyr-563D7C?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr RTOS" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
 
 ---
 
