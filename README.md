@@ -24,6 +24,6 @@ I'm a Jr. Embedded Software Engineer, Developer, and Maker.
 
 
 ### 📊 GitHub İstatistiklerim
-[![Berkay'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=berkayuzunn&show_icons=true&theme=radical)](https://github.com/berkayuzunn)
+[![Berkay'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical)](https://github.com/uzunberkay)
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayuzunn&layout=compact)](https://github.com/berkayuzunn)
+[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=uzunberkay&layout=compact)](https://github.com/uzunberkay)
