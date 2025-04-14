@@ -9,7 +9,7 @@ I'm a Jr. Embedded Software Engineer, Developer, and Maker.
   <a href="https://www.linkedin.com/in/berkayuzunn" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@uzunberkay" target="_blank">
+  <a href="https://medium.com/@berkyuzun" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Medium_Logo.png" width="40" height="40" alt="Medium" />
   </a>
 </p>
