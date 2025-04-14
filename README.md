@@ -9,7 +9,6 @@
 ## 🌐 Sosyal Medya
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][linkedin]
-[<img align="left" alt="Twitter" width="32px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][twitter]
 [<img align="left" alt="Medium" width="32px" src="https://github.com/pingstech/pingstech/assets/62206442/a84716b6-1588-4106-b511-6b2f141696d2.png" />][medium]
 
 <br />
@@ -50,21 +49,14 @@
 ## 📫 Bana Ulaşın
 
 - [LinkedIn][linkedin]
-- [Twitter][twitter]
 - [Medium][medium]
-- [E-posta](mailto:email@example.com)
+- [E-posta](berkyuzun@gmail.com)
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/uzunberkay
-[twitter]: https://twitter.com/uzunberkay
-[medium]: https://medium.com/@uzunberkay
+[medium]: https://medium.com/@berkyuzun
 ---
 
-Bu `README.md` dosyasını GitHub profilinize eklemekiçin:
-
-1. GitHub'da kullanıcı adınızla birebir aynı isimde bir repository oluşturun. Örneğin, kullanıcı adınız `uzunberkay` ise repository adı da `uzunberkay` olmaıdır.
-2. Oluşturduğunuz repository'ye yukarıdaki içeriği içeren bir `README.md` dosyası ekeyin.
-3. Değişiklikleri commit edip push ettiğinizde, profilinizin en üst kısmında bu içerik görüntüleneckti.
 
 
