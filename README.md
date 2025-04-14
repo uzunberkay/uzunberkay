@@ -1,5 +1,5 @@
 ### Hey, I'm Berkay 👋  
-I'm a Jr. Embedded Software Engineer, Developer, and Maker.  
+I'm  Jr. Embedded Software Engineer, Developer, and Maker.  
 ---
 
 ### 🔎 Social Media
