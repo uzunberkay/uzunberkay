@@ -47,7 +47,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/uzunberkay
+[linkedin]: https://www.linkedin.com/in/berkayuzunn/
 [medium]: https://medium.com/@berkyuzun
 ---
 
