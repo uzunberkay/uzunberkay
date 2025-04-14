@@ -22,8 +22,7 @@ I'm a Jr. Embedded Software Engineer, Developer, and Maker.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
+---
 
-### 📊 GitHub İstatistiklerim
 [![Berkay'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical)](https://github.com/uzunberkay)
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=uzunberkay&layout=compact)](https://github.com/uzunberkay)
