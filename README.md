@@ -15,7 +15,12 @@ I'm an Embedded Software Engineer, Developer, and Maker.
 
 ---
 
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzunberkay&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=uzunberkay&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzunberkay&layout=compact&theme=radical&hide_border=true&langs_count=6" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=uzunberkay&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
