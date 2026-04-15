@@ -1,13 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
   <rect width="48" height="48" rx="10" fill="#242938"/>
-  <g transform="translate(2.79,11.2) scale(0.1561)">
-    <polygon points="43.162,98.013 39.167,126.786 14.155,101.821 43.162,98.013" fill="#7929d2"/>
-    <polygon points="87.948,115.889 108.213,134.914 72.257,139.174 87.948,115.889" fill="#9454db"/>
-    <polygon points="72.257,139.174 39.167,126.786 46.839,152.801 72.257,139.174" fill="#7929d2"/>
-    <polygon points="139.235,121.816 108.213,134.914 134.589,148.235 139.235,121.816" fill="#9454db"/>
-    <polygon points="174.116,11.275 257.609,11.275 220.898,46.688 174.116,11.275" fill="#00aeff"/>
-    <polygon points="257.609,95.332 257.609,11.275 220.898,46.688 257.609,95.332" fill="#0070c5"/>
-    <polygon points="139.235,121.815 174.116,11.275 220.898,46.688 139.235,121.815" fill="#0070c5"/>
-    <polygon points="139.235,121.815 220.898,46.688 257.609,95.332 139.235,121.815" fill="#00aeff"/>
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7929d2"/>
+      <stop offset="1" stop-color="#0070c5"/>
+    </linearGradient>
+    <linearGradient id="g5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00aeff"/>
+      <stop offset="1" stop-color="#9454db"/>
+    </linearGradient>
+    <linearGradient id="g6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#66a9dc"/>
+      <stop offset="1" stop-color="#b1e4fa"/>
+    </linearGradient>
+    <linearGradient id="g7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b1e4fa"/>
+      <stop offset="1" stop-color="#66a9dc"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(3.67,11.72) scale(0.15206)">
+    <polygon points="105.31,135.046 132.385,148.72 137.154,121.601" fill="#7929d2"/>
+    <polygon points="34.434,126.703 42.309,153.408 68.401,139.419" fill="#9454db"/>
+    <polygon points="105.31,135.046 68.401,139.419 84.508,115.518" fill="#af7fe4"/>
+    <polygon points="34.434,126.703 8.759,101.076 38.535,97.167" fill="#af7fe4"/>
+    <polygon points="220.982,44.482 258.666,94.416 137.154,121.601" fill="url(#g4)"/>
+    <polygon points="172.959,8.13 220.982,44.482 137.154,121.601" fill="url(#g5)"/>
+    <polygon points="258.666,8.13 220.982,44.482 172.959,8.13" fill="url(#g6)"/>
+    <polygon points="258.666,8.13 220.982,44.482 258.666,94.416" fill="url(#g7)"/>
   </g>
 </svg>
