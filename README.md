@@ -15,10 +15,7 @@ I'm an Embedded Software Engineer, Developer, and Maker.
 
 ---
 
-### 📡 Embedded & RTOS
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzunberkay&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" height="48" alt="ESP-IDF" />&nbsp;<img src="assets/freertos.svg" height="48" alt="FreeRTOS" />&nbsp;<img src="assets/zephyr.svg" height="48" alt="Zephyr RTOS" />&nbsp;<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="48" alt="MQTT" />
-
----
-
-[![Berkay'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uzunberkay&show_icons=true&theme=radical)](https://github.com/uzunberkay)
+![GitHub Streak](https://streak-stats.demolab.com?user=uzunberkay&theme=radical&hide_border=true)
