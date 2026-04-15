@@ -17,12 +17,7 @@ I'm an Embedded Software Engineer, Developer, and Maker.
 
 ### 📡 Embedded & RTOS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" height="28" alt="ESP-IDF" />&nbsp;
-  <img src="https://img.shields.io/badge/FreeRTOS-00A86B?style=flat-square" height="28" alt="FreeRTOS" />&nbsp;
-  <img src="https://img.shields.io/badge/Zephyr_RTOS-4E4E4E?style=flat-square&logo=zephyrproject&logoColor=white" height="28" alt="Zephyr" />&nbsp;
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="28" alt="MQTT" />
-</p>
+<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" height="48" alt="ESP-IDF" />&nbsp;<img src="assets/freertos.svg" height="48" alt="FreeRTOS" />&nbsp;<img src="assets/zephyr.svg" height="48" alt="Zephyr RTOS" />&nbsp;<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="48" alt="MQTT" />
 
 ---
 
