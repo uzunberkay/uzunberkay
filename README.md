@@ -5,10 +5,7 @@ I'm an Embedded Software Engineer, Developer, and Maker.
 
 ### 🔎 Social Media
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/berkayuzunn" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://medium.com/@berkyuzun" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" height="40" alt="Medium" /></a>
-</p>
+<a href="https://www.linkedin.com/in/berkayuzunn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;<a href="https://medium.com/@berkyuzun" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" height="40" alt="Medium" /></a>
 
 ---
 
